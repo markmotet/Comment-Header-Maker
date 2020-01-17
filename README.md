@@ -28,7 +28,7 @@ printHeader("odd", 20);
 /\*------ odd ------\*/
 
 ```
-printHeader("eve", 20);
+printHeader("even", 20);
 ```
 /\*----- even ------\*/
 
