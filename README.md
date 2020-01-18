@@ -1,5 +1,5 @@
 # Comment Header Maker
-A simple program that produces a code comment header given a title and width. It throws a "titleTooLongException" if the title length does not fit within the width.
+A simple program that produces a code comment header given a title and width. The output is always the same length whether the inputted title has an even or odd number of characters. It throws a "titleTooLongException" if the title length does not fit within the width.
 
 ## Samples
 ```
@@ -11,16 +11,6 @@ printHeader("dependencies", 40);
 printHeader("variables & constants", 40);
 ```
 /\*------- variables & constants -------\*/
-
-```
-printHeader("functions", 40);
-```
-/\*------------- functions -------------\*/
-
-```
-printHeader("classes", 40);
-```
-/\*-------------- classes --------------\*/
 
 ```
 printHeader("odd", 20);
