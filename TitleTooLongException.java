@@ -1,4 +1,4 @@
-public class titleTooLongException extends Exception {
+public class TitleTooLongException extends Exception {
     String theLongTitle;
     public titleTooLongException(String title) {
         theLongTitle = title;
