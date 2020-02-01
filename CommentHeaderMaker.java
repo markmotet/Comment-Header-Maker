@@ -1,4 +1,4 @@
-public class commentHeaderMaker {
+public class CommentHeaderMaker {
 
     public static void printHeader(String title, int headerWidth) {
 
