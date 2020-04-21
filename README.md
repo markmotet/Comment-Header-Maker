@@ -29,3 +29,4 @@ The title "antidisestablishmentarianism" is too long. Use a shorter title or a w
 
 ## To Do:
 - [ ] Add parameter to change style e.g. // rather than /* */
+- [ ] Convert to accept command line arguments
